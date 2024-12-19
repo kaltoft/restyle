@@ -1,5 +1,5 @@
 {
-  "name": "@kaltoft/restyle",
+  "name": "kaltoft/restyle",
   "version": "2.4.3",
   "license": "MIT",
   "description": "A system for building constraint-based UI components",
